@@ -30,13 +30,4 @@ bw|float|Width of the bounding box, from 0 to 1
 bh|float|Height of the bounding box, from 0 to 1
 bc|int|Class of nearest bounding box
 
-## Citation
-
-```
-@article{wang2020scaled,
-  title={{Scaled-YOLOv4}: Scaling Cross Stage Partial Network},
-  author={Wang, Chien-Yao and Bochkovskiy, Alexey and Liao, Hong-Yuan Mark},
-  journal={arXiv preprint arXiv:2011.08036},
-  year={2020}
-}
-```
+Credit to WongKinYiu for doing all the heavy lifting
